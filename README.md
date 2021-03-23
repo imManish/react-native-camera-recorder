@@ -2,7 +2,9 @@
 This is sample poc for accessing camera and recording video segement. 
 
 ### Installation 
-`$ npm install `
+`$ npm install`
+
+### Deployment 
 `$ npx react-native run-ios`
 
 ### Requirement Installation
